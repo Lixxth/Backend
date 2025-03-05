@@ -9,7 +9,7 @@ def index(request):
       'special_ofters' : [
          {
             'name' : 'Mascarilla hidratante de sabila',
-            'cost' : 14.00,
+            'cost' : 140.00,
             'image_url': 'static/sayonara/img/Aloeverawithicon_2048x2048.jpg',
          },
          {
